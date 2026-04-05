@@ -41,7 +41,7 @@ python agent.py
 ```
 Agent ready. Type your question (or 'exit' to quit).
 
-You: What is the weather in Taipei today?
+You: What is the weather and date in New York today?
 
 AI: ...
 ```
