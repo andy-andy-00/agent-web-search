@@ -1,0 +1,4 @@
+langchain-mcp-adapters==0.2.2
+langgraph==1.1.6
+langchain-openai==1.1.12
+ddgs[api]==9.12.1
